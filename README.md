@@ -1,4 +1,7 @@
-# zeerob440 intro
-- cool cat
-- software engineering student
+# zeerob440 | CHEP | SOFTWARE Engineering Student | 
 - emergency notification automation specialist 
+
+# STACK
+
+'''
+<h1>try this out</h1>
