@@ -1,7 +1,2 @@
-# zeerob440 | CHEP | SOFTWARE Engineering Student | 
-- emergency notification automation specialist 
 
-# STACK
-
-'''
-<h1>try this out</h1>
+<h1 style="color: #;>zeerob440 | CHEP | SOFTWARE Engineering Student</h1>
